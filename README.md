@@ -1,14 +1,14 @@
 # Project
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.1.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+This application was built using angular and using firebase as backend to save and fetch the recipes and NgRx insead of services
+## Description
+The application is about a recipe book that helps the user upload,edit, delete, add new recipes, fetch recipes and save recipes and also create shopping list.
 
 ## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+  Feel free to clone and after cloning
+  * Run "npm install" inside this project folder to install all dependencies.
+  * Make sure you use the latest version of the CLI (upgrade guide below)
+  * Run "ng serve" to see the app in action (try "npm start" in case "ng serve" fails).
+  * Feel free to compare it with your project code to spot any errors you might have.
 
 ## Build
 
